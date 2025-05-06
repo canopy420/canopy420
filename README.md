@@ -9,4 +9,6 @@ i also love music, some of my favorite artist include, Playboi Carti, ISSBROKIE,
 
 You can check my website at: https://canopy420.github.io/
 
+i know that for now i don't do much, but this is just the start for my world domination plan.
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136bzz5psou4wdafqilueimadnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3136bzz5psou4wdafqilueimadnu&redirect=true)
