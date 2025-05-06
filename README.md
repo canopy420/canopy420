@@ -9,8 +9,4 @@ i also love music, some of my favorite artist include, Playboi Carti, ISSBROKIE,
 
 You can check my website at: https://canopy420.github.io/
 
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1357129827899150388?theme=dark&animatedDecoration=true&idleMessage=&hideDecoration=true)](https://discord.com/users/1357129827899150388)
-
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136bzz5psou4wdafqilueimadnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3136bzz5psou4wdafqilueimadnu&redirect=true)
