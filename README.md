@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 Im Canopy.
 
-<!--
-**canopy420/canopy420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hey! I'm Cano/Canopy, but I also go by "Kryx" or "Madrid." I'm a student from Spain interested in technology and computing in general. My favorite things in technology are Linux, networking, and AI. I think having your "own" system is something everyone should have. Networking i just like it, and I see AI as having a really great assistant that will even work for you! I'm also into hacking, and i have performed data breaches on some companies in Spain, but I can't say names ;p. I love social engineering, the fact that you can be whoever you want and trick people just fascinates me.
 
-Here are some ideas to get you started:
+My main PUBLIC project right now is [Kuromi](https://github.com/canopy420/Kuromi-Multitool), a simple script to clean and manage your system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i also love music, some of my favorite artist include, Playboi Carti, ISSBROKIE, Lil Peep and 6 dogs (RIP)
+
+You can check my website at: https://canopy420.github.io/
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1357129827899150388?theme=dark&animatedDecoration=true&idleMessage=&hideDecoration=true)](https://discord.com/users/1357129827899150388)
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3136bzz5psou4wdafqilueimadnu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=3136bzz5psou4wdafqilueimadnu&redirect=true)
