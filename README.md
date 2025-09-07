@@ -7,7 +7,7 @@ My main PUBLIC project right now is [Kuromi](https://github.com/canopy420/Kuromi
 
 i also love music, some of my favorite artist include, Playboi Carti, ISSBROKIE, Lil Peep and 6 dogs (RIP)
 
-You can check my website at: https://canopy420.github.io/
+You can check my website at: [Kryx.Dev](https://Kryx.dev)
 
 i know that for now i don't do much, but this is just the start for my world domination plan.
 
