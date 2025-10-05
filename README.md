@@ -5,7 +5,7 @@ Hey! I'm kryx, but I also go by "Cano/Canopy" or "Madrid." I'm a student from Sp
 
 My main PUBLIC project right now is [Kuromi](https://github.com/canopy420/Kuromi-Multitool), a simple script to clean and manage your system.
 
-i also love music, some of my favorite artist include, Playboi Carti, ISSBROKIE, Lil Peep and 6 dogs (RIP)
+i also love music, some of my favorite artist include, Playboi Carti, fakemink, Lil Peep and 6 dogs (RIP)
 
 You can check my website at: [Kryx.Dev](https://Kryx.dev)
 
