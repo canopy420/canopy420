@@ -1,7 +1,7 @@
 ## Hi there 👋 Im Canopy.
 
 ## About Me
-Hey! I'm Cano/Canopy, but I also go by "Kryx" or "Madrid." I'm a student from Spain interested in technology and computing in general. My favorite things in technology are Linux, networking, and AI. I think having your "own" system is something everyone should have. Networking i just like it, and I see AI as having a really great assistant that will even work for you! I'm also into hacking, and i have performed data breaches on some companies in Spain, but I can't say names ;p. I love social engineering, the fact that you can be whoever you want and trick people just fascinates me.
+Hey! I'm kryx, but I also go by "Cano/Canopy" or "Madrid." I'm a student from Spain interested in technology and computing in general. My favorite things in technology are Linux, networking, and AI. I think having your "own" system is something everyone should have. Networking i just like it, and I see AI as having a really great assistant that will even work for you! I'm also into hacking, and i have performed data breaches on some companies in Spain, but I can't say names ;p. I love social engineering, the fact that you can be whoever you want and trick people just fascinates me.
 
 My main PUBLIC project right now is [Kuromi](https://github.com/canopy420/Kuromi-Multitool), a simple script to clean and manage your system.
 
